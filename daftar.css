@@ -1,0 +1,11 @@
+.daftar{
+	padding             : 5px;
+	width               : 50%;
+	height              : auto;
+	background-color    : white;
+	background-color    : #f1c550;/*#2E8B57;*/
+	margin-top          : 5px;
+	border-radius: 10px;
+}.diskusi{
+	margin-left: 5px;
+}
